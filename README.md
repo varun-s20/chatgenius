@@ -172,3 +172,29 @@ Key npm scripts (see `package.json`):
 
 - `npm run dev` — Run Vite dev server
 - `npm run build` — Build production assets
+
+## Screenshots
+
+<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9e2c99e5-91d1-4ad0-a7a9-7caaf2aab476" />
+
+<img width="1853" height="911" alt="image" src="https://github.com/user-attachments/assets/0535aa81-77b6-48c2-be96-eb4ed29ee9f9" />
+
+<img width="1843" height="908" alt="image" src="https://github.com/user-attachments/assets/fa8be166-b11b-4418-b5a1-6a598b2afedb" />
+
+<img width="1824" height="907" alt="image" src="https://github.com/user-attachments/assets/2f2da256-c0b4-4806-9648-7acc026d4630" />
+
+<img width="1847" height="922" alt="image" src="https://github.com/user-attachments/assets/5e2b443f-38fe-40d3-b6b0-b5ed6924071c" />
+
+<img width="1853" height="910" alt="image" src="https://github.com/user-attachments/assets/b6593c9c-a7e0-40ae-8692-c04a4ddeab94" />
+
+<img width="1834" height="898" alt="image" src="https://github.com/user-attachments/assets/cdb23e86-750d-4789-86ca-dde4c5d4e10e" />
+
+<img width="1837" height="911" alt="image" src="https://github.com/user-attachments/assets/a66e8d50-9c78-48a9-84bf-e42e8cd7cb50" />
+
+
+
+
+
+
+
+
