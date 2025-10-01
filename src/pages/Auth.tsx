@@ -30,6 +30,7 @@ const phoneSchema = z.object({
   countryCode: z.string().min(1, "Please select a country code"),
   phone: z
     .string()
+    .regex(/^\d+$/, "Phone number must contain only digits")
     .min(6, "Phone number must be at least 6 digits")
     .max(15, "Phone number is too long"),
 });
@@ -55,9 +56,6 @@ export default function Auth() {
   const onPhoneSubmit = async (data: PhoneFormValues) => {
     setIsLoading(true);
     setPhoneData(data);
-
-    const generatedOtp = Math.floor(100000 + Math.random() * 900000).toString();
-    console.info("Generated OTP:", generatedOtp);
 
     await new Promise((resolve) => setTimeout(resolve, 1000));
 
